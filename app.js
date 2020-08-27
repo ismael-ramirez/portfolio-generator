@@ -1,2 +1,5 @@
+const message = 'Hello Node!';
+message = 'Goodbye Node!';
 
-process.argv.slice(2, process.argv.length - 1);
+const sum = 5 + 3;
+sum += 1;
